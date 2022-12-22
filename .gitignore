@@ -24,3 +24,4 @@ doc/api/
 .env
 .flutter-plugins
 .flutter-plugins-dependencies
+.vscode/launch.json
